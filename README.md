@@ -98,7 +98,7 @@ lib/
 
 ## 🎥 Demo
 
-(Attach screen recording or APK here)
+https://drive.google.com/file/d/1gqpzysO0A0_LAPFzU7IvPhFZMmn1frvl/view?usp=sharing
 
 ---
 
