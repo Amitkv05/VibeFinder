@@ -76,7 +76,7 @@ lib/
 * Clean and modern design
 * Responsive layout
 * Reusable widgets
-* 
+  
 ---
 
 ## ⭐ Bonus Features
